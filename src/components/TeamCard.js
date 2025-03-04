@@ -1,3 +1,5 @@
+// Component 2
+
 import React from "react";
 
 const TeamCard = ({ school, mascot, city, state }) => {
