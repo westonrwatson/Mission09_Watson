@@ -1,3 +1,5 @@
+// Weston Watson, Section 3, Team 3
+
 import React, { useState } from "react";
 import teamsData from "./CollegeBasketballTeams.json";
 import TeamList from "./components/TeamList";
